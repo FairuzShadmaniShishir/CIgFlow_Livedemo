@@ -7,3 +7,12 @@ scikit-learn
 biopython
 tqdm
 sentencepiece
+streamlit
+torch
+transformers
+sentencepiece
+pandas
+numpy
+scikit-learn
+biopython
+matplotlib
